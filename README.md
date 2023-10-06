@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allwinmel&label=Profile%20views&color=0e75b6&style=flat" alt="allwinmel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/allwinmel" target="blank"><img src="https://img.shields.io/twitter/follow/allwinmel?logo=twitter&style=for-the-badge" alt="allwinmel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AllwinmelAn" target="blank"><img src="https://img.shields.io/twitter/follow/allwinmel?logo=twitter&style=for-the-badge" alt="allwinmel" /></a> </p>
 
 - 🔭 I’m currently working on **Track Back**
 
